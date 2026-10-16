@@ -1,0 +1,5 @@
+{
+  "name": "claude-usage-tracker",
+  "owner": { "name": "NeerajPratapSingh" },
+  "plugins": [{ "name": "usage-tracker", "source": "./" }]
+}

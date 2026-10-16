@@ -1,0 +1,9 @@
+{
+  "name": "usage-tracker",
+  "version": "0.1.0",
+  "description": "Tracks your Claude usage live: 5-hour and weekly limits, context fill, session cost and tokens, with alerts as limits fill.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "NeerajPratapSingh"
+  }
+}
